@@ -1,1 +1,1 @@
-__all__ = ['series', 'simple', 'whoami']
+__all__ = ['whoami', 'series']

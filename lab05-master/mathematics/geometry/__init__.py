@@ -1,1 +1,1 @@
-__all__ = ['circle', 'cube', 'rectangle', 'whoami']
+__all__ = ['whoami', 'circle', 'cube']
